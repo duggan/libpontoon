@@ -1,5 +1,5 @@
 requests>=2.2.1
+responses
 
 # Testing requirements
 pytest
-responses
